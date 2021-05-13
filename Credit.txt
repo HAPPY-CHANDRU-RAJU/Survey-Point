@@ -1,0 +1,16 @@
+USERS   :   
+            rajuashwin1410@gmail.com        123456
+            user@surveyKing.com             123456
+ADMIN   :   
+            chandru@surveyking.com          123456
+            snehakulkarni@surveyking.com    123456 
+            saniya@surveyking.com           123456 
+            poojapm@surveyking.com          123456
+
+URL :
+User Login Link >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+            http://surveyking.apspolytechnic.co.in/Account/login.php
+            
+            
+Admin Login Link >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+            http://surveyking.apspolytechnic.co.in/admin/login.php

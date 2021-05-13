@@ -1,0 +1,13 @@
+.class
+{
+	display: block;
+	color: #00ff00;
+}
+#nolink{
+ 	text-decoration: none;
+ 	text-decoration-line: none;
+ 	text-decoration-line: none;
+}
+#bgtran{
+	background-color: rgba(0,0,0,0.25);
+}
